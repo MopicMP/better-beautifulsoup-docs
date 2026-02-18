@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/beautifulsoup.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-find.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-find-all.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-select.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-select-one.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-get-text.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-string.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-strings.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-stripped-strings.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-attrs.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-name.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-parent.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-children.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-next-sibling.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-previous-sibling.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-decompose.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-extract.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/tag-replace-with.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/navigablestring.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-beautifulsoup-docs/soupstrainer.html</loc><priority>0.8</priority></url>
+</urlset>
